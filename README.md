@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Semina93
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
